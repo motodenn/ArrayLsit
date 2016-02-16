@@ -19,6 +19,14 @@ public class JavaArraysample {
         System.out.println(list.get(0).get(1).get(2));
 	System.out.println(list.get(1).get(2));
         System.out.println(list.get(1).get(2).get(3));
+	
+	/*
+	  出力結果
+	  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+	  3
+	  [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+	  6                                
+	*/   
     }
     
 }
